@@ -38,11 +38,11 @@ My goal: think like an attacker, defend like a professional.
 
 ## 📊 GitHub Stats
 
-![Stats](github-readme-stats-hs2rug9om-ashhhh66s-projects.vercel.app)
+![Stats](github-readme-stats-sable-three-63.vercel.app)
 ![Streak](https://streak-stats.demolab.com?user=Ashhhh66&theme=dark&hide_border=true)
 
 ---
 
 ## 📈 Activity Graph
 
-![Activity](github-readme-activity-graph-79rg9835v-ashhhh66s-projects.vercel.app)
+![Activity](github-readme-activity-graph-ten-blue.vercel.app)
