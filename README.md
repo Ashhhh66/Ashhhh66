@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/Ashhhh66/Ashhhh66/main/banner.png" width="100%">
+<img src="https://raw.githubusercontent.com/Ashhhh66/Ashhhh66/main/banner.png?v=2" width="100%">
 
 ### Hey, I'm Ashhhh66
 
@@ -30,19 +30,12 @@ My goal: think like an attacker, defend like a professional.
 
 ## 💻 Tools & Tech
 
-![](https://skillicons.dev/icons?i=linux,bash,python,git,docker)
-
-
+![](https://skillicons.dev/icons?i=linux,bash,python,kali,git,docker)
 
 ---
 
 ## 📊 GitHub Stats
 
-![Stats](github-readme-stats-sable-three-63.vercel.app)
+![Stats](https://github-readme-stats-sable-three-63.vercel.app/api?username=Ashhhh66&show_icons=true&theme=dark&hide_border=true&cache_bust=1)
 ![Streak](https://streak-stats.demolab.com?user=Ashhhh66&theme=dark&hide_border=true)
 
----
-
-## 📈 Activity Graph
-
-![Activity](github-readme-activity-graph-ten-blue.vercel.app)
