@@ -1,6 +1,6 @@
-<img src="https://raw.githubusercontent.com/Ashh66/Ashh66/main/banner.png" width="100%">
+<img src="https://raw.githubusercontent.com/Ashhhh66/Ashhhh66/main/banner.png" width="100%">
 
-### Hey, I'm Ashh66
+### Hey, I'm Ashhhh66
 
 **Security Analyst**
 
@@ -10,7 +10,7 @@ Freelance / working in the cybersecurity industry — finding what's broken befo
 
 ## 🛡️ About Me
 
-I'm **Ashh66**, a security analyst working and freelancing in the cybersecurity industry.
+I'm **Ashhhh66**, a security analyst working and freelancing in the cybersecurity industry.
 
 My focus is on identifying vulnerabilities, analyzing threats, and helping systems stay secure — not just building things, but understanding how they break.
 
@@ -22,7 +22,7 @@ My goal: think like an attacker, defend like a professional.
 
 ## 🤝 Connect
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ashh66)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ashhhh66)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/815568346812645409)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Ashh66.dev@gmail.com)
 
@@ -38,11 +38,11 @@ My goal: think like an attacker, defend like a professional.
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Ashh66&show_icons=true&theme=dark&hide_border=true)
-![Streak](https://streak-stats.demolab.com?user=Ashh66&theme=dark&hide_border=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=Ashhhh66&show_icons=true&theme=dark&hide_border=true)
+![Streak](https://streak-stats.demolab.com?user=Ashhhh66&theme=dark&hide_border=true)
 
 ---
 
 ## 📈 Activity Graph
 
-![Activity](https://github-readme-activity-graph.vercel.app/graph?username=Ashh66&theme=react-dark&hide_border=true)
+![Activity](https://github-readme-activity-graph.vercel.app/graph?username=Ashhhh66&theme=react-dark&hide_border=true)
