@@ -1,4 +1,4 @@
-<img src="banner.png" width="100%">
+<img src="https://raw.githubusercontent.com/Ashh66/Ashh66/main/banner.png" width="100%">
 
 ### Hey, I'm Ashh66
 
