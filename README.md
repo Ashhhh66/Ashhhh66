@@ -30,9 +30,8 @@ My goal: think like an attacker, defend like a professional.
 
 ## 💻 Tools & Tech
 
-![](https://skillicons.dev/icons?i=linux,bash,python,kali,git,docker,aws,wireshark)
+![](https://skillicons.dev/icons?i=linux,bash,python,kali,git,docker,wireshark)
 
-> Double-check icon names at [skillicons.dev](https://skillicons.dev) — swap in whatever matches your actual toolkit (e.g. Burp Suite, Nmap, Metasploit don't have official skillicons, so those are best listed as text under About Me or a separate "Arsenal" section if you want them included).
 
 ---
 
