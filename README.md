@@ -30,7 +30,8 @@ My goal: think like an attacker, defend like a professional.
 
 ## 💻 Tools & Tech
 
-![](https://skillicons.dev/icons?i=linux,bash,python,kali,git,docker,wireshark)
+![](https://skillicons.dev/icons?i=linux,bash,python,git,docker)
+
 
 
 ---
