@@ -30,7 +30,7 @@ My goal: operate like an attacker, think like a professional.
 
 ## 💻 Tools & Tech
 
-![](https://skillicons.dev/icons?i=linux,bash,python,kali,git,docker,aws,wireshark)
+![](https://skillicons.dev/icons?i=linux,bash,python,kali,git,docker,wireshark)
 
 **Arsenal:** Burp Suite · Nmap · Metasploit · Cobalt Strike · BloodHound · Mimikatz
 
