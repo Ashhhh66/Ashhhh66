@@ -2,21 +2,21 @@
 
 ### Hey, I'm Ashhhh66
 
-**Security Analyst**
+**Learning Red Team & OpSec**
 
-Freelance / working in the cybersecurity industry — finding what's broken before someone else does.
+Working in the cybersecurity industry, now diving into offensive security and operational security tradecraft.
 
 ---
 
 ## 🛡️ About Me
 
-I'm **Ashhhh66**, a security analyst working and freelancing in the cybersecurity industry.
+I'm **Ashhhh66**, working in the cybersecurity industry and currently sharpening my focus on **red teaming and operational security (OpSec)**.
 
-My focus is on identifying vulnerabilities, analyzing threats, and helping systems stay secure — not just building things, but understanding how they break.
+I'm moving beyond defensive analysis into offensive tradecraft — adversary emulation, evasion, and thinking through how real attackers plan and execute campaigns without getting caught.
 
-I'm continuously sharpening my skills in **network security, threat analysis, and penetration testing**, while staying current with the tools and techniques the industry actually uses.
+I'm continuously building skills in **red team methodology, OpSec practices, and penetration testing**, while staying current with the tools and techniques the industry actually uses.
 
-My goal: think like an attacker, defend like a professional.
+My goal: operate like an attacker, think like a professional.
 
 ---
 
@@ -30,7 +30,9 @@ My goal: think like an attacker, defend like a professional.
 
 ## 💻 Tools & Tech
 
-![](https://skillicons.dev/icons?i=linux,bash,python,kali,git,docker)
+![](https://skillicons.dev/icons?i=linux,bash,python,kali,git,docker,aws,wireshark)
+
+**Arsenal:** Burp Suite · Nmap · Metasploit · Cobalt Strike · BloodHound · Mimikatz
 
 ---
 
