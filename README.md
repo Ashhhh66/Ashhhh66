@@ -2,21 +2,37 @@
 
 ### Hey, I'm Ashhhh66
 
-**Learning Red Team & OpSec**
+**Software Engineer · Security-minded**
 
-Working in the cybersecurity industry, now diving into offensive security and operational security tradecraft.
+Building mobile and desktop apps with TypeScript, React Native and Rust, with a background in cybersecurity.
 
 ---
 
-## 🛡️ About Me
+## 👨‍💻 About Me
 
-I'm **Ashhhh66**, working in the cybersecurity industry and currently sharpening my focus on **red teaming and operational security (OpSec)**.
+I'm **Ashhhh66**, a software engineer based in London.
 
-I'm moving beyond defensive analysis into offensive tradecraft — adversary emulation, evasion, and thinking through how real attackers plan and execute campaigns without getting caught.
+I started out in the cybersecurity industry as a security analyst, and I've moved into building software full time. That background shapes how I work: I care about writing apps that are secure by design, not patched up afterwards.
 
-I'm continuously building skills in **red team methodology, OpSec practices, and penetration testing**, while staying current with the tools and techniques the industry actually uses.
+Right now I'm focused on building real products end to end, from design and code to testing, deployment and shipping them to actual users.
 
-My goal: operate like an attacker, think like a professional.
+---
+
+## 🚀 What I'm Building
+
+**📈 Ledgio** · *In progress*
+A trade journaling app that automatically logs trades and helps traders review their performance. Built with React Native and Expo.
+
+**🔐 Password Manager** · *In progress*
+A local-first, encrypted desktop password manager with a companion browser extension. Built with Tauri, Rust and TypeScript, using Argon2id and XChaCha20-Poly1305.
+
+---
+
+## 💻 Tech Stack
+
+![](https://skillicons.dev/icons?i=ts,js,react,nodejs,rust,tauri,tailwind,vite,python,git,linux,docker)
+
+**Also working with:** React Native · Expo · Vitest · GitHub Actions · Cursor
 
 ---
 
@@ -28,16 +44,7 @@ My goal: operate like an attacker, think like a professional.
 
 ---
 
-## 💻 Tools & Tech
-
-![](https://skillicons.dev/icons?i=linux,bash,python,kali,git,docker,wireshark)
-
-**Arsenal:** Burp Suite · Nmap · Metasploit · Cobalt Strike · BloodHound · Mimikatz
-
----
-
 ## 📊 GitHub Stats
 
 ![Stats](https://github-readme-stats-sable-three-63.vercel.app/api?username=Ashhhh66&show_icons=true&theme=dark&hide_border=true&cache_bust=1)
 ![Streak](https://streak-stats.demolab.com?user=Ashhhh66&theme=dark&hide_border=true)
-
